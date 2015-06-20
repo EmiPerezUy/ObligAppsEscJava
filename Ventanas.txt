@@ -1,0 +1,9 @@
+Login: 
+ABM Empresas(gestor):
+ABM Ofertas(gestor):
+ABM Aspirantes(gestor):
+ABM Entrevistas(gestor):
+Listado de ofertas para sugerir(analista):
+ABM Contratos(analsita):
+Listado Comisiones:
+
